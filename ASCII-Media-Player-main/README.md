@@ -24,10 +24,6 @@ These packages can be installed using any package manager for python like pip, c
 
 All POSIX compliant terminals should work well. If you use windows, and the program doesn't work well, try switching to WSL (Windows Subsystem for Linux)
 
-# 🎥 A Demo
-
-https://user-images.githubusercontent.com/55488899/161427699-1d606858-4a3d-4490-b21e-ecd4ac56a83b.mp4
-
 # 🛠️ Usage
 
 Navigate to the directory of the python script and run the following command
